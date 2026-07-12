@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Zaa-Shreyas/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Zaa-Shreyas/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Zaa-Shreyas/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Zaa-Shreyas/DSA/tree/master/0169-majority-element) |
 ## String
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Zaa-Shreyas/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Zaa-Shreyas/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Zaa-Shreyas/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Zaa-Shreyas/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/Zaa-Shreyas/DSA/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
@@ -66,5 +68,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Zaa-Shreyas/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Zaa-Shreyas/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Zaa-Shreyas/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
