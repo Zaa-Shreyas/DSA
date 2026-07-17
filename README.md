@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Zaa-Shreyas/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Zaa-Shreyas/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0078-subsets](https://github.com/Zaa-Shreyas/DSA/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Zaa-Shreyas/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0169-majority-element](https://github.com/Zaa-Shreyas/DSA/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Zaa-Shreyas/DSA/tree/master/0283-move-zeroes) |
 | [2058-concatenation-of-array](https://github.com/Zaa-Shreyas/DSA/tree/master/2058-concatenation-of-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Zaa-Shreyas/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0874-backspace-string-compare](https://github.com/Zaa-Shreyas/DSA/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Zaa-Shreyas/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Dynamic Programming
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Zaa-Shreyas/DSA/tree/master/3995-gcd-of-odd-and-even-sums) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Zaa-Shreyas/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
