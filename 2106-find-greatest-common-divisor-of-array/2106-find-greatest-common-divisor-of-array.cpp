@@ -9,10 +9,10 @@ public:
             maxi = max(maxi,x);
         }
         while(mini){
-            a = mini;
-            b = maxi;
-            maxi = a;
-            mini = b % a;
+            
+            b = maxi % mini;
+            maxi = mini;
+            mini = b;
         }
         return maxi;
     }
