@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Zaa-Shreyas/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Zaa-Shreyas/DSA/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/Zaa-Shreyas/DSA/tree/master/2032-largest-odd-number-in-string) |
+| [3805-maximize-active-section-with-trade-i](https://github.com/Zaa-Shreyas/DSA/tree/master/3805-maximize-active-section-with-trade-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-shift-2d-grid](https://github.com/Zaa-Shreyas/DSA/tree/master/1386-shift-2d-grid) |
+## Enumeration
+|  |
+| ------- |
+| [3805-maximize-active-section-with-trade-i](https://github.com/Zaa-Shreyas/DSA/tree/master/3805-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
