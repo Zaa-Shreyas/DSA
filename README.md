@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Zaa-Shreyas/DSA/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Zaa-Shreyas/DSA/tree/master/0070-climbing-stairs) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Zaa-Shreyas/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/Zaa-Shreyas/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Zaa-Shreyas/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3859-maximum-product-of-two-digits](https://github.com/Zaa-Shreyas/DSA/tree/master/3859-maximum-product-of-two-digits) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Zaa-Shreyas/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0169-majority-element](https://github.com/Zaa-Shreyas/DSA/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Zaa-Shreyas/DSA/tree/master/0283-move-zeroes) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Zaa-Shreyas/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1386-shift-2d-grid](https://github.com/Zaa-Shreyas/DSA/tree/master/1386-shift-2d-grid) |
 | [2058-concatenation-of-array](https://github.com/Zaa-Shreyas/DSA/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Zaa-Shreyas/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Zaa-Shreyas/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Zaa-Shreyas/DSA/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/Zaa-Shreyas/DSA/tree/master/0169-majority-element) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Zaa-Shreyas/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [3859-maximum-product-of-two-digits](https://github.com/Zaa-Shreyas/DSA/tree/master/3859-maximum-product-of-two-digits) |
 ## Simulation
 |  |
