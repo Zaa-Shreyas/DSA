@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Zaa-Shreyas/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0225-implement-stack-using-queues](https://github.com/Zaa-Shreyas/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Zaa-Shreyas/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0874-backspace-string-compare](https://github.com/Zaa-Shreyas/DSA/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Zaa-Shreyas/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -140,10 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Zaa-Shreyas/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Zaa-Shreyas/DSA/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Zaa-Shreyas/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Zaa-Shreyas/DSA/tree/master/0232-implement-queue-using-stacks) |
 ## Heap (Priority Queue)
 |  |
