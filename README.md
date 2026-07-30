@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Zaa-Shreyas/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Zaa-Shreyas/DSA/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/Zaa-Shreyas/DSA/tree/master/2032-largest-odd-number-in-string) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Zaa-Shreyas/DSA/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/Zaa-Shreyas/DSA/tree/master/3805-maximize-active-section-with-trade-i) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Zaa-Shreyas/DSA/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Zaa-Shreyas/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/Zaa-Shreyas/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Zaa-Shreyas/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Zaa-Shreyas/DSA/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/Zaa-Shreyas/DSA/tree/master/3859-maximum-product-of-two-digits) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Zaa-Shreyas/DSA/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Array
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Zaa-Shreyas/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Zaa-Shreyas/DSA/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/Zaa-Shreyas/DSA/tree/master/2032-largest-odd-number-in-string) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Zaa-Shreyas/DSA/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Divide and Conquer
 |  |
 | ------- |
