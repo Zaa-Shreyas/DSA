@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/Zaa-Shreyas/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Zaa-Shreyas/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Zaa-Shreyas/DSA/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/Zaa-Shreyas/DSA/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/Zaa-Shreyas/DSA/tree/master/3859-maximum-product-of-two-digits) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Zaa-Shreyas/DSA/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Array
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3626-smallest-divisible-digit-product-i](https://github.com/Zaa-Shreyas/DSA/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/Zaa-Shreyas/DSA/tree/master/3805-maximize-active-section-with-trade-i) |
 ## Design
 |  |
