@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Zaa-Shreyas/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2058-concatenation-of-array](https://github.com/Zaa-Shreyas/DSA/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Zaa-Shreyas/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2195-time-needed-to-buy-tickets](https://github.com/Zaa-Shreyas/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Zaa-Shreyas/DSA/tree/master/0874-backspace-string-compare) |
 | [1386-shift-2d-grid](https://github.com/Zaa-Shreyas/DSA/tree/master/1386-shift-2d-grid) |
 | [2058-concatenation-of-array](https://github.com/Zaa-Shreyas/DSA/tree/master/2058-concatenation-of-array) |
+| [2195-time-needed-to-buy-tickets](https://github.com/Zaa-Shreyas/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 ## Greedy
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Zaa-Shreyas/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Zaa-Shreyas/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [2195-time-needed-to-buy-tickets](https://github.com/Zaa-Shreyas/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
