@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Zaa-Shreyas/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/Zaa-Shreyas/DSA/tree/master/0239-sliding-window-maximum) |
 ## Math
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Zaa-Shreyas/DSA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Zaa-Shreyas/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0169-majority-element](https://github.com/Zaa-Shreyas/DSA/tree/master/0169-majority-element) |
+| [0239-sliding-window-maximum](https://github.com/Zaa-Shreyas/DSA/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Zaa-Shreyas/DSA/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Zaa-Shreyas/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0909-stone-game](https://github.com/Zaa-Shreyas/DSA/tree/master/0909-stone-game) |
@@ -163,10 +165,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Zaa-Shreyas/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Zaa-Shreyas/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/Zaa-Shreyas/DSA/tree/master/0239-sliding-window-maximum) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Zaa-Shreyas/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Zaa-Shreyas/DSA/tree/master/0239-sliding-window-maximum) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Zaa-Shreyas/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
@@ -176,4 +180,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/Zaa-Shreyas/DSA/tree/master/0909-stone-game) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Zaa-Shreyas/DSA/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Zaa-Shreyas/DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
