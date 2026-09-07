@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Zaa-Shreyas/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Zaa-Shreyas/DSA/tree/master/0239-sliding-window-maximum) |
+| [0713-subarray-product-less-than-k](https://github.com/Zaa-Shreyas/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Zaa-Shreyas/DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Math
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Zaa-Shreyas/DSA/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Zaa-Shreyas/DSA/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Zaa-Shreyas/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0713-subarray-product-less-than-k](https://github.com/Zaa-Shreyas/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0909-stone-game](https://github.com/Zaa-Shreyas/DSA/tree/master/0909-stone-game) |
 | [1046-max-consecutive-ones-iii](https://github.com/Zaa-Shreyas/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1386-shift-2d-grid](https://github.com/Zaa-Shreyas/DSA/tree/master/1386-shift-2d-grid) |
@@ -197,10 +199,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Zaa-Shreyas/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Zaa-Shreyas/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [4284-smallest-stable-index-i](https://github.com/Zaa-Shreyas/DSA/tree/master/4284-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Zaa-Shreyas/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Zaa-Shreyas/DSA/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
