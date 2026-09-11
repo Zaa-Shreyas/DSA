@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Zaa-Shreyas/DSA/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Zaa-Shreyas/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/Zaa-Shreyas/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/Zaa-Shreyas/DSA/tree/master/0724-find-pivot-index) |
 | [0909-stone-game](https://github.com/Zaa-Shreyas/DSA/tree/master/0909-stone-game) |
 | [0940-fruit-into-baskets](https://github.com/Zaa-Shreyas/DSA/tree/master/0940-fruit-into-baskets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Zaa-Shreyas/DSA/tree/master/1034-subarrays-with-k-different-integers) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Zaa-Shreyas/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Zaa-Shreyas/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/Zaa-Shreyas/DSA/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/Zaa-Shreyas/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [4284-smallest-stable-index-i](https://github.com/Zaa-Shreyas/DSA/tree/master/4284-smallest-stable-index-i) |
 ## Binary Search
