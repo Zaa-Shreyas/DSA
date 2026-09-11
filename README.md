@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Zaa-Shreyas/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Zaa-Shreyas/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Zaa-Shreyas/DSA/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/Zaa-Shreyas/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/Zaa-Shreyas/DSA/tree/master/0940-fruit-into-baskets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Zaa-Shreyas/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Zaa-Shreyas/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Zaa-Shreyas/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Zaa-Shreyas/DSA/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Zaa-Shreyas/DSA/tree/master/0283-move-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/Zaa-Shreyas/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Zaa-Shreyas/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/Zaa-Shreyas/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Zaa-Shreyas/DSA/tree/master/0724-find-pivot-index) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Zaa-Shreyas/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Zaa-Shreyas/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Zaa-Shreyas/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Zaa-Shreyas/DSA/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/Zaa-Shreyas/DSA/tree/master/1046-max-consecutive-ones-iii) |
