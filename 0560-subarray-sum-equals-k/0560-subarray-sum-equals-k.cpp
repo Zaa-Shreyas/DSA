@@ -7,7 +7,7 @@ public:
         um[0] = 1;
         for(int i = 0; i < nums.size(); i++){
             current += nums[i];
-            if(um[current-k]) count += um[current-k];
+            if(um.find(current-k) != um.end()) count += um[current-k];
             um[current]++;
         }
         return count;
