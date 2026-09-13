@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Zaa-Shreyas/DSA/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Zaa-Shreyas/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/Zaa-Shreyas/DSA/tree/master/0940-fruit-into-baskets) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Zaa-Shreyas/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Zaa-Shreyas/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Zaa-Shreyas/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## String
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Zaa-Shreyas/DSA/tree/master/0724-find-pivot-index) |
 | [0909-stone-game](https://github.com/Zaa-Shreyas/DSA/tree/master/0909-stone-game) |
 | [0940-fruit-into-baskets](https://github.com/Zaa-Shreyas/DSA/tree/master/0940-fruit-into-baskets) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Zaa-Shreyas/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Zaa-Shreyas/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Zaa-Shreyas/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1386-shift-2d-grid](https://github.com/Zaa-Shreyas/DSA/tree/master/1386-shift-2d-grid) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Zaa-Shreyas/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Zaa-Shreyas/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Zaa-Shreyas/DSA/tree/master/0724-find-pivot-index) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Zaa-Shreyas/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Zaa-Shreyas/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [4284-smallest-stable-index-i](https://github.com/Zaa-Shreyas/DSA/tree/master/4284-smallest-stable-index-i) |
 ## Binary Search
