@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Zaa-Shreyas/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1386-shift-2d-grid](https://github.com/Zaa-Shreyas/DSA/tree/master/1386-shift-2d-grid) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Zaa-Shreyas/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Zaa-Shreyas/DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2058-concatenation-of-array](https://github.com/Zaa-Shreyas/DSA/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Zaa-Shreyas/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Zaa-Shreyas/DSA/tree/master/2195-time-needed-to-buy-tickets) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Zaa-Shreyas/DSA/tree/master/0152-maximum-product-subarray) |
 | [0909-stone-game](https://github.com/Zaa-Shreyas/DSA/tree/master/0909-stone-game) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Zaa-Shreyas/DSA/tree/master/0954-maximum-sum-circular-subarray) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Zaa-Shreyas/DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Memoization
 |  |
 | ------- |
