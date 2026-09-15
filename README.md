@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Zaa-Shreyas/DSA/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Zaa-Shreyas/DSA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Zaa-Shreyas/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0152-maximum-product-subarray](https://github.com/Zaa-Shreyas/DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Zaa-Shreyas/DSA/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Zaa-Shreyas/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Zaa-Shreyas/DSA/tree/master/0238-product-of-array-except-self) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Zaa-Shreyas/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Zaa-Shreyas/DSA/tree/master/0070-climbing-stairs) |
+| [0152-maximum-product-subarray](https://github.com/Zaa-Shreyas/DSA/tree/master/0152-maximum-product-subarray) |
 | [0909-stone-game](https://github.com/Zaa-Shreyas/DSA/tree/master/0909-stone-game) |
 ## Memoization
 |  |
