@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Zaa-Shreyas/DSA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Zaa-Shreyas/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0152-maximum-product-subarray](https://github.com/Zaa-Shreyas/DSA/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Zaa-Shreyas/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Zaa-Shreyas/DSA/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Zaa-Shreyas/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Zaa-Shreyas/DSA/tree/master/0238-product-of-array-except-self) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Zaa-Shreyas/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Zaa-Shreyas/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Zaa-Shreyas/DSA/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Zaa-Shreyas/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Zaa-Shreyas/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Zaa-Shreyas/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/Zaa-Shreyas/DSA/tree/master/0792-binary-search) |
