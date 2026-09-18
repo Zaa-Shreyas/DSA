@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Zaa-Shreyas/DSA/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Zaa-Shreyas/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Zaa-Shreyas/DSA/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Zaa-Shreyas/DSA/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/Zaa-Shreyas/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Zaa-Shreyas/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0909-stone-game](https://github.com/Zaa-Shreyas/DSA/tree/master/0909-stone-game) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Zaa-Shreyas/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Zaa-Shreyas/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Zaa-Shreyas/DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Zaa-Shreyas/DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Zaa-Shreyas/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Zaa-Shreyas/DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Zaa-Shreyas/DSA/tree/master/0239-sliding-window-maximum) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Zaa-Shreyas/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Zaa-Shreyas/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Zaa-Shreyas/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/Zaa-Shreyas/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Zaa-Shreyas/DSA/tree/master/0283-move-zeroes) |
 | [0874-backspace-string-compare](https://github.com/Zaa-Shreyas/DSA/tree/master/0874-backspace-string-compare) |
 ## Sorting
