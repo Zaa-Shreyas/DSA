@@ -4,7 +4,6 @@ public:
         int low = INT_MIN;
         int high = 0;
         int mid;
-        int ans = INT_MAX;
         
         for(int x : weights){
             low = max(low,x);
@@ -13,7 +12,7 @@ public:
         while(low<=high){
             mid = low+(high-low)/2;
             int capacity = 0;
-            int day = 0;
+            int day = 1;
             for(int i = 0; i<weights.size(); i++){
                 if(capacity + weights[i] > mid){
                     day++;
@@ -24,15 +23,15 @@ public:
                 }
             }
 
-            if(day+1 > days){
+            if(day > days){
                 
                 low = mid+1;
             }
             else{
-                ans = min(ans,mid);
+
                 high = mid-1;
             }
         }
-        return ans;
+        return low;
     }
 };
