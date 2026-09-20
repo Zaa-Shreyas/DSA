@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Zaa-Shreyas/DSA/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Zaa-Shreyas/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/Zaa-Shreyas/DSA/tree/master/3805-maximize-active-section-with-trade-i) |
+| [3811-reverse-degree-of-a-string](https://github.com/Zaa-Shreyas/DSA/tree/master/3811-reverse-degree-of-a-string) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Zaa-Shreyas/DSA/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-shift-2d-grid](https://github.com/Zaa-Shreyas/DSA/tree/master/1386-shift-2d-grid) |
 | [2058-concatenation-of-array](https://github.com/Zaa-Shreyas/DSA/tree/master/2058-concatenation-of-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Zaa-Shreyas/DSA/tree/master/2195-time-needed-to-buy-tickets) |
+| [3811-reverse-degree-of-a-string](https://github.com/Zaa-Shreyas/DSA/tree/master/3811-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
