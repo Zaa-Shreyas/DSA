@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-shift-2d-grid](https://github.com/Zaa-Shreyas/DSA/tree/master/1386-shift-2d-grid) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Zaa-Shreyas/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Zaa-Shreyas/DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2000-minimum-speed-to-arrive-on-time](https://github.com/Zaa-Shreyas/DSA/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2058-concatenation-of-array](https://github.com/Zaa-Shreyas/DSA/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Zaa-Shreyas/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Zaa-Shreyas/DSA/tree/master/2195-time-needed-to-buy-tickets) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Zaa-Shreyas/DSA/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Zaa-Shreyas/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Zaa-Shreyas/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [2000-minimum-speed-to-arrive-on-time](https://github.com/Zaa-Shreyas/DSA/tree/master/2000-minimum-speed-to-arrive-on-time) |
 ## Pigeonhole Principle
 |  |
 | ------- |
