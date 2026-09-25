@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Zaa-Shreyas/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1386-shift-2d-grid](https://github.com/Zaa-Shreyas/DSA/tree/master/1386-shift-2d-grid) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Zaa-Shreyas/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Zaa-Shreyas/DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Zaa-Shreyas/DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Zaa-Shreyas/DSA/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2058-concatenation-of-array](https://github.com/Zaa-Shreyas/DSA/tree/master/2058-concatenation-of-array) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Zaa-Shreyas/DSA/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Zaa-Shreyas/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Zaa-Shreyas/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Zaa-Shreyas/DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Zaa-Shreyas/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Zaa-Shreyas/DSA/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/Zaa-Shreyas/DSA/tree/master/3859-maximum-product-of-two-digits) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Zaa-Shreyas/DSA/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Zaa-Shreyas/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Zaa-Shreyas/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Zaa-Shreyas/DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Zaa-Shreyas/DSA/tree/master/2000-minimum-speed-to-arrive-on-time) |
 ## Pigeonhole Principle
 |  |
