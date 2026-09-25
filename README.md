@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Zaa-Shreyas/DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Zaa-Shreyas/DSA/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Zaa-Shreyas/DSA/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/Zaa-Shreyas/DSA/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Zaa-Shreyas/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Zaa-Shreyas/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Zaa-Shreyas/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Zaa-Shreyas/DSA/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/Zaa-Shreyas/DSA/tree/master/0410-split-array-largest-sum) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Zaa-Shreyas/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Zaa-Shreyas/DSA/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/Zaa-Shreyas/DSA/tree/master/2032-largest-odd-number-in-string) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Zaa-Shreyas/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Zaa-Shreyas/DSA/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Zaa-Shreyas/DSA/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/Zaa-Shreyas/DSA/tree/master/0410-split-array-largest-sum) |
 | [0909-stone-game](https://github.com/Zaa-Shreyas/DSA/tree/master/0909-stone-game) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Zaa-Shreyas/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Zaa-Shreyas/DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Zaa-Shreyas/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Zaa-Shreyas/DSA/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/Zaa-Shreyas/DSA/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Zaa-Shreyas/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Zaa-Shreyas/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Zaa-Shreyas/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -269,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Zaa-Shreyas/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Zaa-Shreyas/DSA/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Zaa-Shreyas/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/Zaa-Shreyas/DSA/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Zaa-Shreyas/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/Zaa-Shreyas/DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Zaa-Shreyas/DSA/tree/master/0907-koko-eating-bananas) |
